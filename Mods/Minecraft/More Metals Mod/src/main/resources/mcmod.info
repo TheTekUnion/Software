@@ -1,0 +1,18 @@
+[
+{
+  "modid": "bignate777_moremetalsmod",
+  "name": "More Metals Mod",
+  "description": "A mod that adds more metals into minecraft. In the future this mod will become a combat overhaul.",
+  "version": "1.0",
+  "mcversion": "1.8.7",
+  "url": "http://thetekunion.com/software/index.php",
+  "updateUrl": "http://thetekunion.com/software/index.php",
+  "authorList": ["bignate777, Chaisemagic101"],
+  "credits": "The Tek Union 2015",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
+
+
