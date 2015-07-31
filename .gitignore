@@ -1,0 +1,15 @@
+Console Applications/.idea/.name
+Console Applications/.idea/Console Applications.iml
+Console Applications/.idea/encodings.xml
+Console Applications/.idea/misc.xml
+Console Applications/.idea/modules.xml
+Console Applications/.idea/scopes/scope_settings.xml
+Console Applications/.idea/vcs.xml
+*.xml
+*.exe
+Console Applications/build/exe.win-amd64-3.4/library.zip
+Console Applications/build/exe.win-amd64-3.4/python34.dll
+Console Applications/build/exe.win-amd64-3.4/_bz2.pyd
+Console Applications/build/exe.win-amd64-3.4/unicodedata.pyd
+Console Applications/build/setup.py
+*.pyd
