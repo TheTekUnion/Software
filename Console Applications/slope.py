@@ -10,8 +10,8 @@ while True:
             return (y2 - y1) / (x2 - x1)
 
 
-        print "Slope: " + str(slope(y1, y2, x1, x2))
+        print("Slope: " + str(slope(y1, y2, x1, x2)))
     except ZeroDivisionError:
-        print "Slope: Undefined"
+        print("Slope: Undefined")
     except:
-        print "You cannot enter text."
+        print("You cannot enter text.")

@@ -7,21 +7,21 @@ Ask for the users maximum number.
 Create a random number from the range.
 Print the number.
 
-""" 
+"""
 
-#import modules
+# import modules
 import random
 
 #instructions
-print "Welcome to Random Number."
-print "Enter your minimum and maximum numbers. "
-print "Numbers with decimals will be rounded. \n"
+print("Welcome to Random Number.")
+print("Enter your minimum and maximum numbers. ")
+print("Numbers with decimals will be rounded. \n")
 
 #Make the program run continuously.
 while True:
-	try:
-		userMin = int(input("Enter your minimum number: "))
-		userMax = int(input("Enter your maximum number: "))
-		print random.randint(userMin, userMax)
-	except:
-		print "You cannot enter text."
+    try:
+        userMin = int(input("Enter your minimum number: "))
+        userMax = int(input("Enter your maximum number: "))
+        print(random.randint(userMin, userMax))
+    except:
+        print("You cannot enter text or an invalid range. ")
