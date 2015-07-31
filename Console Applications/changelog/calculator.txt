@@ -1,0 +1,5 @@
+Version 1.0
+Console Application used as a calculator
+
+Version 1.1 
+Updated to Python 3
