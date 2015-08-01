@@ -1,0 +1,2 @@
+Version 1.0
+The classic game pong using the HTML 5 Canvas

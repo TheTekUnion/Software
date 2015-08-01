@@ -1,1 +1,2 @@
+Version 1.0
 A mod that adds more metals into minecraft. In the future this mod will become a combat overhaul.
